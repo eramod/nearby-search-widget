@@ -1,4 +1,4 @@
-# How to build this project
+# How to run this project locally
 
 Run `npm install` to install all dependencies
 
